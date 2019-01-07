@@ -5,7 +5,7 @@ pipeline {
         label 'linux && x86_64'
     }
 
-    options {
+    ottions {
         skipDefaultCheckout(true)
     }
 
